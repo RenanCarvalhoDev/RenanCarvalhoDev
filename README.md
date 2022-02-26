@@ -4,8 +4,8 @@ Eu sou a Renan Carvalho, estudante de programação e tecnologia na BLueTech!
 
 <div align="center">
   <a href="https://github.com/RenanCarvalhoDev">
-  <img align="center" height="110em" src="https://github-readme-stats.vercel.app/api?username=RenanCarvalhoDev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img align="center" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCarvalhoDev&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=RenanCarvalhoDev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCarvalhoDev&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
   ##
